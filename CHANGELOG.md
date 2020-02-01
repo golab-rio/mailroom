@@ -1,3 +1,23 @@
+v5.3.27
+----------
+ * Update to latest goflow v0.67.0
+
+v5.3.26
+----------
+ * Update to goflow v0.66.3
+
+v5.3.25
+----------
+ * Update to latest goflow
+
+v5.3.24
+----------
+ * Update to latest goflow v0.66.0
+
+v5.3.23
+----------
+ * Update to latest goflow v0.65.0
+
 v5.3.22
 ----------
  * Make default for MaxBodyBytes 1MB
